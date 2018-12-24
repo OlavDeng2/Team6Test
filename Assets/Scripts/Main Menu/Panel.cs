@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TurretGun : MonoBehaviour {
+public class Panel : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
